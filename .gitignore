@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+
+# Model checkpoints and large generated files
+*.pth
+*.pt
+*.ckpt
+*.tar
+*.npy
+*.npz
+
+# Experiment outputs
+log/
+logs/
+output/
+outputs/
+results/
+correction_analysis_outputs/
+efficiency_outputs/
+wandb/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk

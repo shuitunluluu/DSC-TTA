@@ -1,0 +1,6 @@
+text_alpha: 6e-06
+trust_kappa: 0.3
+filter_top: 30
+filter_bottom: 30
+fusion_rho: 0.06
+fusion_eta: 0.5
